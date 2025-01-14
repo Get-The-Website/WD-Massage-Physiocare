@@ -519,6 +519,8 @@ header.main-header .header-sticky.active{
 .navbar-brand{
 	padding: 0;
 	margin: 0;
+	height: 54px;
+	width: 207px;
 }
 
 .main-menu .nav-menu-wrapper{
